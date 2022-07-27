@@ -1,4 +1,11 @@
 body {
 	display: grid;
-	grid-template-columns: 2fr 8fr
+	grid-template-columns: 3fr 6fr 3fr
+}
+
+/* added css for the libebutton */
+button {
+	display:block;
+	width: 100px;
+	height: 30px;
 }
